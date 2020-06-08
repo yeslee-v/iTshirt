@@ -1,1 +1,2 @@
-'Like' Function
+1. 'Like' Function
+2. 'Dislike' Function
